@@ -1,0 +1,26 @@
+{
+  "name": "Node.js-mySQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B230ft/Node.js-mySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B230ft/Node.js-mySQL/issues"
+  },
+  "homepage": "https://github.com/B230ft/Node.js-mySQL#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "prompt": "^1.0.0"
+  }
+}
